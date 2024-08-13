@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-image: url(../images/weather2.jpg);
+background-repeat:no-repeat ;
+background-size:  cover;
+}
+.search{
+   margin: auto;
+   padding-top: 4rem;
+}
+.search h1{
+    color: white;
+}
+.searchkey{
+    height: 50px;
+    border-radius: 2rem;
+}
+.iconn{
+    margin-left: 3.5rem;
+}
+.weather{
+   margin-top: 10rem;
+   color: #ffffff;
+}
+.weathercol{
+  
+   height: 20rem;
+   padding-top: 1.5rem;
+   background-color: rgb(45 71 92 / 70%);
+   border: 5px solid rgb(214 196 196 / 30%);
+   box-shadow: 2px 2px 2px rgb(180 172 172);
+
+}
+
+p{
+    font-size: 18px;
+}
